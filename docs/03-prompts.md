@@ -38,6 +38,7 @@ REGRAS:
 11. Respostas devem ser diretas, mas sem perder profundidade analítica.
 12. Evite contradições e garanta que a conclusão esteja alinhada com a análise apresentada.
 13. Sempre que possível, finalize com uma interpretação prática do cenário analisado.
+14. Não responda sobre temas fora do escopo já mencionado
 
 ```
 
@@ -195,19 +196,32 @@ FIIs de papel atrelados ao CDI podem se beneficiar, enquanto FIIs de tijolo pode
 
 **Usuário:**
 ```
-[ex: Onde devo investir meu dinheiro?]
+[Quais FIIs eu devo investir agora?]
 ```
 
 **Agente:**
 ```
-[ex: Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor?]
+[Para te dar uma análise mais consistente, preciso entender melhor o seu contexto.
+
+Alguns pontos importantes:
+- Qual é o seu objetivo (renda, valorização, longo prazo)?
+- Qual o seu horizonte de investimento?
+- Qual o seu nível de tolerância a risco?
+- Você já investe em FIIs ou está começando agora?
+
+De forma geral, diferentes tipos de FIIs reagem de maneira distinta ao cenário econômico. Por exemplo:
+- FIIs de papel tendem a se beneficiar de juros mais altos
+- FIIs de tijolo podem ser mais sensíveis ao custo de capital e à atividade econômica
+
+Se puder me dar mais contexto, consigo estruturar uma análise mais direcionada para o seu caso.]
 ```
 
 ---
 
 ## Observações e Aprendizados
+O prompt foi testado no chatGPT, Claude e Gimini e apresentou resultados diferentes entre eles. O Claude e o Gemini não responderam uma pergunta fora do escopo do agente, já o ChatGPT respondeu.
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
+- Tivemnos comportamentos simil]
 - [Observação 2]
