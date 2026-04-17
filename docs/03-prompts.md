@@ -219,9 +219,7 @@ Se puder me dar mais contexto, consigo estruturar uma análise mais direcionada 
 ---
 
 ## Observações e Aprendizados
-O prompt foi testado no chatGPT, Claude e Gimini e apresentou resultados diferentes entre eles. O Claude e o Gemini não responderam uma pergunta fora do escopo do agente, já o ChatGPT respondeu.
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- Tivemnos comportamentos simil]
-- [Observação 2]
+- O prompt foi testado no chatGPT, Claude e Gimini e apresentou resultados diferentes entre eles. O Claude e o Gemini não responderam uma pergunta fora do escopo do agente, já o ChatGPT respondeu.
